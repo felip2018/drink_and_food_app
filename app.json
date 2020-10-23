@@ -1,0 +1,12 @@
+{
+  "name": "drink_and_food",
+  "displayName": "drink_and_food",
+  "expo": {
+    "name": "drink_and_food",
+    "slug": "drink_and_food",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
